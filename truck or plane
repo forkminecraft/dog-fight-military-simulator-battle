@@ -1,0 +1,10 @@
+dogfight_game/
+│── main.py              # Entry point, menu, game loop
+│── settings.py          # Global constants (screen size, colors, speeds)
+│── player.py            # Player plane & truck
+│── enemy.py             # Enemy planes & ground forces
+│── ai_teammates.py      # AI teammates logic
+│── campaign.py          # Levels, missions, story
+│── map.py               # NYC background, scrolling camera
+│── utils.py             # Helper functions
+│── assets/              # Images (planes, trucks, map, UI)
